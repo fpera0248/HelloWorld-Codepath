@@ -1,4 +1,4 @@
-# Pre-work: HelloWorld-Codepath
+# Intro to Mobile App Development - Android Pre-work Project
 
 Submitted by: Fernando Peralta
 
